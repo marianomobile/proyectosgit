@@ -1,3 +1,4 @@
 Esta es la historia
 de Mariano Perez Forte
-Tiene 59 años y trabaja en Educación a Distancia
+Tiene 59 años y trabaja en Educación a Distancia.
+Ahora le agregue una parte a este documento.
