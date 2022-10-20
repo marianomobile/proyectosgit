@@ -4,3 +4,5 @@ Tiene 59 años y trabaja en Educación a Distancia.
 Ahora le agregue una parte a este documento.
 La idea es capacitarme en python.
 Para el 2023 voy a buscar nuevos trabajos en python.
+Comenzo el proyecto html y css.
+Este es el ultimo cambio que aceptamos.
